@@ -4,3 +4,5 @@
 1. [r/explainlikeimfive/ What is P vs NP?](https://www.reddit.com/r/explainlikeimfive/comments/15fciqn/eli5_what_is_p_vs_np/)
 2. [P vs. NP problem - Wikipedia](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 3. [Complexity Classes (P, NP, Co-NP, NP-hard, NP-complete) - GFG](https://www.geeksforgeeks.org/types-of-complexity-classes-p-np-conp-np-hard-and-np-complete/)
+4. [Complexity Zoo by Scott Aaronson](https://cse.unl.edu/~cbourke/latex/ComplexityZoo.pdf)
+5. [Poll on P ?= NP - Relevance, Expectations, Consequences - William Gasarch](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf)
